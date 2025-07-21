@@ -55,7 +55,7 @@ export default function Contact() {
           </span>
         </div>
         <div>
-          If you're interested in Nanue's Farm, <a href="https://nanuesfarm.com" target="_blank" rel="noopener noreferrer" className="text-blue-700 hover:underline">click here</a>
+          If you&apos;re interested in Nanue&apos;s Farm, <a href="https://nanuesfarm.com" target="_blank" rel="noopener noreferrer" className="text-blue-700 hover:underline">click here</a>
         </div>
       </footer>
     </section>
